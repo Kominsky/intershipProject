@@ -8,4 +8,4 @@ def organinize_files(directory):
 
 
 #testing the function
-organinize_files("/path/to/test/directory")
+organinize_files("/Users/jakobkominsky/Desktop/test_directory")
